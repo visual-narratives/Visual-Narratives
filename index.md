@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+<html>
+  <body>
+<h2> Welcome to Visual Narrative Telling</h2>
 
-You can use the [editor on GitHub](https://github.com/visual-narratives/vn/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<p>This page corresponds to details on the sub-part of a bigger initiative. In specific, we are going to look into visual procedures. </p><hr>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h3> Why is Visual Procedure Telling important?</h3><hr>
 
-### Markdown
+<h3> The various domains in our dataset along with their Topic Visualizations</h3>
+1. <a href="lda_recipes_20.html">Recipes</a><br/>
+2. <a href="lda_crafts_20.html">Arts and Crafts</a><br/>
+3. <a href="lda_fitness_20.html">Fitness</a><br/>
+4. <a href="lda_hobbies_20.html">Hobbies</a><br/>
+5. <a href="lda_lifestyle_20.html">Lifestyle</a><br/>
+6. <a href="lda_outdoors_20.html">Outdoors</a><br/>
+7. <a href="lda_styling_20.html">Styling</a><br/>
+8. <a href="lda_pets_20.html">Pets</a><br/>
+9. <a href="lda_technology_20.html">Technology</a><br/>
+10.<a href="lda_misc_20.html">Miscellaneous</a><br/>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<hr>
+<h3> Example</h3>
 
-```markdown
-Syntax highlighted code block
+Here is an example of making <b>lasagna</b>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+and <a href="">Image</a><br/>
+<hr>
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+<h3> Contact</h3>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Please reach out to us for the data at _visual.narrative.telling@gmail.com_
+</body>
+</html>
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/visual-narratives/vn/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
