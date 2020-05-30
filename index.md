@@ -22,7 +22,7 @@
 <h3> Examples</h3>
 
 Here is an example of making <b>Japanese Meatballs with Soba noodles</b>
- <img src="Meatballs.png"><br/>
+ <img src="Meatball.png"><br/>
  
 Here is another example of <b>How to do a Squat</b>
 <img src="Squat.png"><br/>
