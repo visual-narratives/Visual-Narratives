@@ -21,11 +21,11 @@
 <hr>
 <h3> Examples</h3>
 
-Here is an example of making <b>Chocolate-Pops</b>
- <img src="Chocolate-Pop.png"><br/>
+Here is an example of making <b>Japanese Meatballs with Soba noodles</b>
+ <img src="Meatballs.png"><br/>
  
-Here is another example of a simple <b>Card Trick</b>
-<img src="Card-Trick.png"><br/>
+Here is another example of <b>How to do a Squat</b>
+<img src="Squat.png"><br/>
 <hr>
 
 
