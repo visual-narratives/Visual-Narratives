@@ -30,7 +30,8 @@ Here is another example of a simple <b>Card Trick</b>
 
 
 <h3> Contact</h3>
+
+Please reach out to us for the data at <a href="mailto:visual.narrative.telling@gmail.com"> visual.narrative.telling@gmail.com</a>.<br/> 
 </body>
 </html>
-Please reach out to us for the data at _visual.narrative.telling@gmail.com_
 
