@@ -25,7 +25,7 @@ Here is an example of making <b>Japanese Meatballs with Soba noodles</b>
  <img src="Meatballs.png"><br/>
  
 Here is another example of <b>How to do a Squat</b>
-<img src="Squat.png"><br/>
+<img src="Squats.png"><br/>
 
 This an an example on how to perform a simple <b> Card Trick </b>
 <img src="Card.png"><br/>
