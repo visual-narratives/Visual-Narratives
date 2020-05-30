@@ -6,7 +6,7 @@
 
 <h3> Why is Visual Procedure Telling important?</h3><hr>
 
-<h3> The various domains in our dataset along with their Topic Visualizations</h3>
+<h3> The various domains in our dataset along with their topic visualizations</h3>
 1. <a href="lda_recipes_20.html">Recipes</a><br/>
 2. <a href="lda_crafts_20.html">Arts and Crafts</a><br/>
 3. <a href="lda_fitness_20.html">Fitness</a><br/>
@@ -19,7 +19,7 @@
 10.<a href="lda_misc_20.html">Miscellaneous</a><br/>
 
 <hr>
-<h3> Example</h3>
+<h3> Examples</h3>
 
 Here is an example of making <b>Chocolate-Pops</b>
  <img src="Chocolate-Pop.png"><br/>
@@ -31,7 +31,7 @@ Here is another example of a simple <b>Card Trick</b>
 
 <h3> Contact</h3>
 
-Please reach out to us for the data at <a href="mailto:visual.narrative.telling@gmail.com"> visual.narrative.telling@gmail.com</a>.<br/> 
+Please reach out to us for the data at <a href="mailto:visual.narrative.telling@gmail.com"> <i>visual.narrative.telling@gmail.com</i></a>.<br/> 
 </body>
 </html>
 
