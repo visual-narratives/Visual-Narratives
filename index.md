@@ -21,11 +21,11 @@
 <hr>
 <h3> Example</h3>
 
-Here is an example of making <b>lasagna</b>
-
-
-
-and <a href="">Image</a><br/>
+Here is an example of making <b>Chocolate-Pops</b>
+ <img src="Chocolate-Pop.png"><br/>
+ 
+Here is another example of a simple card trick
+<img src="Card-Trick.png"><br/>
 <hr>
 
 
